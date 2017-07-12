@@ -1,3 +1,11 @@
 ---
-title: How I Turned Down $300,000 from Microsoft to go Full-Time on GitHub
+title: First Post
+layout: default
 ---
+
+{{ page.title }}
+================
+
+<p class="meta">12 July 2017 - İstanbul</p>
+
+Lorem ipsum
