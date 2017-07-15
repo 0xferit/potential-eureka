@@ -4,6 +4,6 @@ layout: default
 
 # Blog Posts
 {% for post in site.posts %}
-* {{ post.date | date_to_string }} &#09997; {{post.title}}  
-  {{post.excerpt}}
+## []({{post.url}}){{ post.date | date_to_string }} / {{post.title}}  
+  {{post.excerpt}} ... [**More**]({{post.url}})
 {% endfor %}
