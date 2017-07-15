@@ -1,1 +1,0 @@
-# ferittuncer.github.io
