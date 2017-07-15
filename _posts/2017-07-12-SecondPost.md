@@ -1,7 +1,7 @@
 ---
 layout: default
-title:  "Welcome to Jekyll!"
-date:   14-7-2017
+title:  "How is it going?"
+date:   15-7-2017
 categories: jekyll update
 excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nunc risus, tincidunt vel arcu id, viverra tristique est.
 ---
