@@ -51,7 +51,7 @@ y[0,  <b>1</b>]
 x[0,  <b>1</b>]
 </pre></code>
 
-[![enter image description here][2]][2]
+![enter image description here](https://i.stack.imgur.com/cTiEk.jpg)
 
 <pre><code>clockwise90DegreesRotated = reverseTheOrderOfColumns(transposed)
   b   a
@@ -60,8 +60,4 @@ y[<b>1</b>,  0]
 <[<b>1</b>,  <b>1</b>]
 </pre></code>
 
-[![enter image description here][3]][3]
-
-[1]: https://i.stack.imgur.com/BfZKD.jpg
-[2]: https://i.stack.imgur.com/cTiEk.jpg
-[3]: https://i.stack.imgur.com/fTvMj.jpg
+![enter image description here](https://i.stack.imgur.com/fTvMj.jpg)
