@@ -1,3 +1,15 @@
+---
+layout: default
+title:  "Tetriminoe Rotation"
+date:   14-7-2017
+categories: programming
+excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nunc risus, tincidunt vel arcu id, viverra tristique est.
+---
+
+{{ page.title }}
+================
+
+
 **Representation**
 
 Represent each piece in the minimum matrix where 1's represent spaces occupied by the tetriminoe and 0's represent empty space. Example:
