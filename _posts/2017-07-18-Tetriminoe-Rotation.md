@@ -9,6 +9,7 @@ excerpt: By representing a tetriminoe in the minimum sized matrix it is possible
 {{ page.title }}
 ================
 
+By representing a tetriminoe in the minimum sized matrix it is possible to obtain clockwise and counter-clockwise 90 degrees rotations very easily in two simple steps. 
 
 **Representation**
 
