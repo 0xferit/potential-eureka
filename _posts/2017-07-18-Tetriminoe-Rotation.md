@@ -20,7 +20,7 @@ Represent each piece in the minimum matrix where 1's represent spaces occupied b
 </code></pre> 
     
 
->[![enter image description here][1]][1]
+![enter image description here](https://i.stack.imgur.com/BfZKD.jpg)
 
 **Rotation Formula**
 
