@@ -14,10 +14,10 @@ excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nunc risus,
 
 Represent each piece in the minimum matrix where 1's represent spaces occupied by the tetriminoe and 0's represent empty space. Example:
 
-<pre><code>originalMatrix = 
+<code>originalMatrix = 
 [0,   0,   <b>1</b>]
 [<b>1</b>,   <b>1</b>,   <b>1</b>]
-</code></pre> 
+</code>
     
 
 ![enter image description here](https://i.stack.imgur.com/BfZKD.jpg)
