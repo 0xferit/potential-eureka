@@ -36,7 +36,7 @@
          <p>This page was generated at {{ site.time }}</p>
           
           {% for post in site.posts %}
-          <a href="{{ '/' | post.url }}"/>
+          <a href="{{ post.url }}"/>
           <h1>{{post.title}}</h1>
         </a>
           {% endfor %}
