@@ -33,11 +33,9 @@
         </section>
 
         <aside id="sidebar">
-         <p>This page was generated at {{ site.time }}</p>
-          
           {% for post in site.posts %}
           <a href="{{ post.url }}"/>
-          <h1>{{post.title}}</h1>
+          <h3>{{post.title}}</h3>
         </a>
           {% endfor %}
 
@@ -45,7 +43,7 @@
       </div>
     </div>
   
- 
+          
 
 
     <script>
@@ -59,6 +57,10 @@
 
     </script>
 
+
+<footer>
+  <p>This page was generated at {{ site.time }}</p>
+</footer>
   </body>
 
 </html>
