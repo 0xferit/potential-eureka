@@ -37,7 +37,7 @@ b[<b>1</b>,   <b>1</b>,   <b>1</b>]</code></pre>
   a   b
 x[0,  <b>1</b>]
 y[0,  <b>1</b>]
-z[<b>1</b>,  <b>1</b>]</pre></code>
+z[<b>1</b>,  <b>1</b>] </pre></code>
 
 <pre><code>counterClockwise90DegreesRotated = reverseTheOrderOfRows(transposed)
   a   b
