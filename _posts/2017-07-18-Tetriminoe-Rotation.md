@@ -19,8 +19,6 @@ Represent each piece in the minimum matrix where 1's represent spaces occupied b
 [<b>1</b>,   <b>1</b>,   <b>1</b>]</code></pre>
     
 
-![enter image description here](https://i.stack.imgur.com/BfZKD.jpg)
-
 **Rotation Formula**
 
     clockwise90DegreesRotatedMatrix = reverseTheOrderOfColumns(Transpose(originalMatrix))
@@ -47,7 +45,6 @@ z[<b>1</b>,  <b>1</b>]
 y[0,  <b>1</b>]
 x[0,  <b>1</b>]</pre></code>
 
-![enter image description her](https://i.stack.imgur.com/cTiEk.jpg)
 
 <pre><code>clockwise90DegreesRotated = reverseTheOrderOfColumns(transposed)
   b   a
@@ -55,4 +52,4 @@ x[<b>1</b>,  0]
 y[<b>1</b>,  0]
 <[<b>1</b>,  <b>1</b>]</pre></code>
 
-![enter image description h](https://i.stack.imgur.com/fTvMj.jpg)
+
