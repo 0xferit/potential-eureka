@@ -3,7 +3,7 @@ layout: default
 title:  "Easy Tetriminoe Rotation"
 date:   14-7-2017
 categories: programming
-excerpt: Representing a tetriminoe in the minimum matrix, transposing and reversing the orders of columns yields clockwise 90 degrees rotation of the
+excerpt: By representing a tetriminoe in the minimum sized matrix it is possible to obtain clockwise and counter-clockwise 90 degrees rotations very easily in two simple steps. 
 ---
 
 {{ page.title }}
@@ -12,7 +12,7 @@ excerpt: Representing a tetriminoe in the minimum matrix, transposing and revers
 
 **Representation**
 
-Represent each piece in the minimum matrix where 1's represent spaces occupied by the tetriminoe and 0's represent empty space. Example:
+Represent each piece in the minimum sized matrix where 1's represent spaces occupied by the tetriminoe and 0's represent empty space. Example:
 
 <pre><code>originalMatrix = 
 [0,   0,   <b>1</b>]
