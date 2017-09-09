@@ -43,13 +43,13 @@ z[<b>1</b>,  <b>1</b>]</pre></code>
   a   b
 z[<b>1</b>,  <b>1</b>]
 y[0,  <b>1</b>]
-x[0,  <b>1</b>]</pre></code>
+x[0,  <b>1</b>] </pre></code>
 
 
 <pre><code>clockwise90DegreesRotated = reverseTheOrderOfColumns(transposed)
   b   a
 x[<b>1</b>,  0]
 y[<b>1</b>,  0]
-<[<b>1</b>,  <b>1</b>]</pre></code>
+<[<b>1</b>,  <b>1</b>] </pre></code>
 
 
