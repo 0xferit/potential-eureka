@@ -1,2 +1,4 @@
 # Site
 _site/*
+
+*.cache
