@@ -1,4 +1,4 @@
 # Site
 _site/*
 
-*.cache
+.sass_cache/*
