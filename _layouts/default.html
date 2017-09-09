@@ -35,8 +35,8 @@
         <aside id="sidebar">
          <p>This page was generated at {{ site.time }}</p>
           
-            {% for post in site.posts %}
-          <p>This page was generated at {{ site.time }}</p>
+          {% for post in site.posts %}
+          [{{post.title}}]({{post.url}}) 
           {% endfor %}
 
         </aside>
