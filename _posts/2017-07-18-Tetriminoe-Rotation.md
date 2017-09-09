@@ -62,7 +62,6 @@ y[<b>1</b>,  0]
 
 [![enter image description here][3]][3]
 
-
-  [1]: https://i.stack.imgur.com/BfZKD.jpg
-  [2]: https://i.stack.imgur.com/cTiEk.jpg
-  [3]: https://i.stack.imgur.com/fTvMj.jpg
+[1]: https://i.stack.imgur.com/BfZKD.jpg
+[2]: https://i.stack.imgur.com/cTiEk.jpg
+[3]: https://i.stack.imgur.com/fTvMj.jpg
