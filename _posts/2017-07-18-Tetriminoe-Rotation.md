@@ -20,14 +20,14 @@ Represent each piece in the minimum sized matrix where 1's represent spaces occu
 [<b>1</b>,   <b>1</b>,   <b>1</b>]</code></pre>
     
 
-###Rotation Formula
+### Rotation Formula
 
     clockwise90DegreesRotatedMatrix = reverseTheOrderOfColumns(Transpose(originalMatrix))
 
     anticlockwise90DegreesRotatedMatrix = reverseTheOrderOfRows(Transpose(originalMatrix))
 
 
-###Illustration
+### Illustration
 
 <pre><code>originalMatrix = 
   x    y    z
