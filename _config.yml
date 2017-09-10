@@ -2,7 +2,7 @@ theme: jekyll-theme-architect
 
 title: [Potential Eureka]
 description: [a blog about software engineering]
-
+author: [Ferit Tunçer]
 
 plugins:
   - jekyll-sitemap
