@@ -34,7 +34,9 @@
           {{ content }}
         </section>
 
-        <aside id=".hidden-md-down sidebar">
+        
+        <div style=".hidden-md-down color:red">
+        <aside id=" sidebar">
           {% for post in site.posts %}
           <a href="{{ post.url }}"/>
           <p>{{post.title}}</p>
@@ -42,6 +44,7 @@
           {% endfor %}
 
         </aside>
+      </div>
       </div>
     </div>
   
