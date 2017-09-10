@@ -6,3 +6,4 @@ description: [Personal blog of a software engineer]
 
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
