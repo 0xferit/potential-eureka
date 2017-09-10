@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-@media screen and (max-width: 767px) {
+@media only screen and (min-width: 480px) and (max-width: 767px) {
   aside#sidebar {
     visibility: hidden;
     clear: both;
@@ -12,9 +12,21 @@
     width: 28%;
     display: none;
   }
-  
-
 }
-  h1 {
+  
+@media only screen and (max-width: 479px) { } {
+  aside#sidebar {
+    visibility: hidden;
+    clear: both;
+    float: left;
+    margin: 10px auto 5px 20px;
+    width: 28%;
+    display: none;
+    
+      h1 {
     font-size: 50% !important;
   }
+  }
+}
+
+
