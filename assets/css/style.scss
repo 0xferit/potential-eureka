@@ -14,12 +14,11 @@
   }
 }
 
-@media only screen and (min-width: 768){
-     header h2#subtitle { 
-     width: 700px !important;
+header h2#subtitle { 
+     width: %100 !important;
        
     }
-}
+
   
 @media only screen and (max-width: 479px){
   aside#sidebar {
