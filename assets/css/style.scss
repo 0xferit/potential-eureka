@@ -52,16 +52,16 @@
 * {
   margin: 0;
 }
-h1 ~ *:not(h1) {
+h1 ~ *:not(h1):not(#subtitle) {
   margin-left: 0.5em;
 }
-h2 ~ *:not(h1):not(h2) {
+h2 ~ *:not(h1):not(h2):not(#subtitle)  {
   margin-left: 1em;
 }
-h3 ~ *:not(h1):not(h2):not(.h2):not(h3) {
+h3 ~ *:not(h1):not(h2):not(.h2):not(h3):not(#subtitle)  {
   margin-left: 1.5em;
 }
-h4 ~ *:not(h1):not(h2):not(.h2):not(h3):not(.h3):not(h4) {
+h4 ~ *:not(h1):not(h2):not(.h2):not(h3):not(.h3):not(h4):not(#subtitle)  {
   margin-left: 2em;
 }
 
