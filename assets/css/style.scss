@@ -13,6 +13,11 @@
     display: none;
   }
 }
+
+     body header h2 #subtitle { 
+     width: 700px;
+       
+    }
   
 @media only screen and (max-width: 479px){
   aside#sidebar {
@@ -28,6 +33,7 @@
     }
      body header h2 { 
      font-size: 20px !important;
+       
     }
   body h1 {
     font-size: 25px !important;
