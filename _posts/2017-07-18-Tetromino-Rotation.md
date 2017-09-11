@@ -11,7 +11,7 @@ excerpt: By representing a tetromino in the minimum sized matrix it is possible 
 
 By representing a tetromino in the minimum sized matrix it is possible to obtain clockwise and counter-clockwise 90 degrees rotations very easily in two simple steps. 
 
-### Representation
+## Representation
 
 Represent each piece in the minimum sized matrix where 1's represent spaces occupied by the tetriminoe and 0's represent empty space. Example:
 
@@ -20,14 +20,14 @@ Represent each piece in the minimum sized matrix where 1's represent spaces occu
 [<b>1</b>,   <b>1</b>,   <b>1</b>]</code></pre>
     
 
-### Rotation Formula
+## Rotation Formula
 
     clockwise90DegreesRotatedMatrix = reverseTheOrderOfColumns(Transpose(originalMatrix))
 
     anticlockwise90DegreesRotatedMatrix = reverseTheOrderOfRows(Transpose(originalMatrix))
 
 
-### Illustration
+## Illustration
 
 <pre><code>originalMatrix = 
   x    y    z
