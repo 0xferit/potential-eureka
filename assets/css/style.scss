@@ -49,39 +49,20 @@
   
 }
 
-#main-content h1
-{
-  text-indent: 3px;
+* {
+  margin: 0;
 }
-
-#main-content h2
-{
-  text-indent: 10px;
+h1 ~ *:not(h1) {
+  margin-left: 1em;
 }
-
-#main-content h3
-{
-  text-indent: 20px;
+h2 ~ *:not(h1):not(h2) {
+  margin-left: 2em;
 }
-
-#main-content h4
-{
-  text-indent: 6px;
+h3 ~ *:not(h1):not(h2):not(.h2):not(h3) {
+  margin-left: 3em;
 }
-
-#main-content h5
-{
-  text-indent: 6px;
-}
-
-#main-content h6
-{
-  text-indent: 6px;
-}
-
-#main-content p
-{
-  margin-left: 8px;
+h4 ~ *:not(h1):not(h2):not(.h2):not(h3):not(.h3):not(h4) {
+  margin-left: 4em;
 }
 
 
