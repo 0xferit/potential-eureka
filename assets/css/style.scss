@@ -67,5 +67,13 @@
    margin-left: 2em;		
  }
 
+ h5 ~ *:not(h1):not(h2):not(.h2):not(h3):not(.h3):not(h4):not(h5):not(#subtitle)  {		
+   margin-left: 2em;		
+ }
+
+ h6 ~ *:not(h1):not(h2):not(.h2):not(h3):not(.h3):not(h4):not(h5):not(h6):not(#subtitle)  {		
+   margin-left: 2em;		
+ }
+
 
 
