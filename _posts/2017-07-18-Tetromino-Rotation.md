@@ -26,7 +26,6 @@ Represent each piece in the minimum sized matrix where 1's represent spaces occu
 
     anticlockwise90DegreesRotatedMatrix = reverseTheOrderOfRows(Transpose(originalMatrix))
 
-
 ## Illustration
 
 <pre><code>originalMatrix = 
@@ -52,5 +51,3 @@ x[0,  <b>1</b>] </code></pre>
 x[<b>1</b>,  0]
 y[<b>1</b>,  0]
 z[<b>1</b>,  <b>1</b>] </code></pre>
-
-
