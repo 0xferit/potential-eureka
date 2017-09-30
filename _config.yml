@@ -1,9 +1,18 @@
+---
+title: '["Potential Eureka"]'
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 theme: jekyll-theme-architect
-
-title: [Potential Eureka]
-description: [software engineering and programming stuff]
-author: [Ferit Tunçer]
-
+description:
+- software engineering and programming stuff
+author:
+- Ferit Tunçer
 plugins:
-  - jekyll-sitemap
-  - jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-seo-tag

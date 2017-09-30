@@ -1,9 +1,11 @@
 ---
+title: Tetriminoe Rotation
+date: 2017-07-14 00:00:00 Z
+categories:
+- programming
 layout: default
-title:  "Tetriminoe Rotation"
-date:   14-7-2017
-categories: programming
-excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nunc risus, tincidunt vel arcu id, viverra tristique est.
+excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nunc risus, tincidunt
+  vel arcu id, viverra tristique est.
 ---
 
 {{ page.title }}

@@ -1,9 +1,13 @@
 ---
+title: Easy Tetromino Rotation
+date: 2017-07-14 00:00:00 Z
+categories:
+- algorithm
+- programming
 layout: default
-title:  "Easy Tetromino Rotation"
-date:   14-7-2017
-categories: algorithm programming
-excerpt: By representing a tetromino (tetris piece) in the minimum sized matrix it is possible to obtain clockwise and counter-clockwise 90 degrees rotations very easily in two simple steps. 
+excerpt: By representing a tetromino (tetris piece) in the minimum sized matrix it
+  is possible to obtain clockwise and counter-clockwise 90 degrees rotations very
+  easily in two simple steps.
 ---
 
 {{page.title}}
